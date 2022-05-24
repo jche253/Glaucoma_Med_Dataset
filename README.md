@@ -8,7 +8,7 @@
 
 **Datasheets for datasets:** We have provided a structured healthsheet (Rostamzadeh et al) based on the standardized datasheet by Gebru et al.
 
-**Citation:** If you use this dataset, please cite:
+**Citation:** pending citation.
 
 ## Example Excerpt from Note
 ```
