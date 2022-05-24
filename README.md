@@ -8,4 +8,7 @@
 
 **Datasheets for datasets:** We have provided a structured healthsheet (Rostamzadeh et al) based on the standardized datasheet by Gebru et al.
 
-**Citation:** If you use this dataset, please cite
+**Citation:** If you use this dataset, please cite:
+
+# Example Excerpt from Note
+> ***** *** ********* GLAUCOMA ** *** Progress Note **/**/****     PROBLEM-SPECIFIC ASSESSMENT & PLAN NOTES FOR CURRENT ENCOUNTER    Visual distortions of shape and size      Assessment & Plan Note:   (Assessment & Plan note Last Updated **/**/****)   Office Visit  Written **/**/**** by ****** * ***, MD   Red dots like red ****** in her vision OU.  Headache afterwards, but went away with tylenol.  Feels she still has some of those dots now, but way less than before.  
