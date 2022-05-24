@@ -10,5 +10,12 @@
 
 **Citation:** If you use this dataset, please cite:
 
-# Example Excerpt from Note
-> ***** *** ********* GLAUCOMA ** *** Progress Note **/**/****     PROBLEM-SPECIFIC ASSESSMENT & PLAN NOTES FOR CURRENT ENCOUNTER    Visual distortions of shape and size      Assessment & Plan Note:   (Assessment & Plan note Last Updated **/**/****)   Office Visit  Written **/**/**** by ****** * ***, MD   Red dots like red ****** in her vision OU.  Headache afterwards, but went away with tylenol.  Feels she still has some of those dots now, but way less than before.  
+## Example Excerpt from Note
+```
+***** *** ********* GLAUCOMA ** *** Progress Note **/**/****     PROBLEM-SPECIFIC ASSESSMENT & PLAN NOTES FOR CURRENT ENCOUNTER    Visual distortions of shape and size      Assessment & Plan Note:   (Assessment & Plan note Last Updated **/**/****)   Office Visit  Written **/**/**** by ****** * ***, MD   Red dots like red ****** in her vision OU.  Headache afterwards, but went away with tylenol.  Feels she still has some of those dots now, but way less than before.  
+```
+
+## Example annotation
+```
+{"id": 9989, "text": "Brimonidine BID, OU", "meta": {}, "annotation_approver": null, "comments": [], "labels": [[0, 11, "DRUG"], [12, 15, "FREQUENCY"], [17, 19, "ROUTE"]]}
+```
