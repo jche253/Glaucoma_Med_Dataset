@@ -8,7 +8,7 @@
 
 **Datasheets for datasets:** We have provided a structured healthsheet (Rostamzadeh et al) based on the standardized datasheet by Gebru et al.
 
-**Citation:** pending citation.
+**Citation:** pending submission of Data Descriptor Article to TVST.
 
 ## Example Excerpt from Note
 ```
