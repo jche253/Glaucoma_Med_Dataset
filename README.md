@@ -6,9 +6,9 @@
 
 **Data Collection:** From 1/2019-8/2020
 
-**Datasheets for datasets:** We have provided a structured healthsheet from [Rostamzadeh et al](https://arxiv.org/abs/2202.13028) based on the standardized datasheet by [Gebru et al](https://arxiv.org/abs/1803.09010).
+**Datasheets for datasets:** We have provided a structured healthsheet (Rostamzadeh et al) based on the standardized datasheet by Gebru et al.
 
-**Citation:** pending submission of Data Descriptor Article to TVST.
+**Citation:** pending citation.
 
 ## Example Excerpt from Note
 ```
